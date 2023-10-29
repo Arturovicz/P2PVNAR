@@ -1,11 +1,4 @@
 # Vnarchy
-Series of my attempts for creating a blockchain from scratch.
+Series of attempts creating a blockchain from scratch.
 
-This repository is all about Vnarchy blockchain, the evolution of my knowledge in the domain by creating several projects.
-First one is the most basic way of apprehending the blockchain environment. 
-Second one is pretty much the same thing but improved. Unfortunetly, it wasn't finished due to my lack of understandings in Angular.js
-The third one is a more complete blockchain using merkle tree, peer to peer mechanism and other improvements. It has several external dependancies like gopkg.in/vrecan/death.v2, or github.com/dgraph-io/badger, a rapid key-value database. 
-
-There were, however, other prototypes for blockchains implemented by other databases like mySQL, but their usage may occur a huge waste of processing time.
-
-Projects are partially implemented by the knowledge of other blockchain developpers. 
+Vnarchy is a pioneering project that delves into the world of blockchain technology, taking a ground-up approach to construct a peer-to-peer (P2P) blockchain network. This ambitious endeavor involves developing all the essential components for a fully functional blockchain system. From consensus algorithms to cryptographic protocols, Vnarchy aims to redefine the landscape of decentralized systems. The project embodies a commitment to innovation and self-sufficiency, reflecting a comprehensive exploration of the intricate workings of blockchain technology from both theoretical and practical standpoints.
